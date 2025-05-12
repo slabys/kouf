@@ -2,7 +2,7 @@ import {useState} from 'react'
 import burnoutImage from '/burnout.webp'
 import stressImage from '/stress.webp'
 import pizzaImage from '/pizza.webp'
-import kofolaImage from '/kouf.webp'
+import kofolaImage from '/kouf.png'
 import './App.css'
 
 function App() {
