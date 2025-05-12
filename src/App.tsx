@@ -1,8 +1,8 @@
 import {useState} from 'react'
-import burnoutImage from '/burnout.png'
-import stressImage from '/stress.png'
-import pizzaImage from '/pizza.png'
-import kofolaImage from '/kouf.png'
+import burnoutImage from '/burnout.webp'
+import stressImage from '/stress.webp'
+import pizzaImage from '/pizza.webp'
+import kofolaImage from '/kouf.webp'
 import './App.css'
 
 function App() {
